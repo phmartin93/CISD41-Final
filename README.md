@@ -1,6 +1,6 @@
 # CISD41-Final
 
-## This is the final project for CISD 41
+## This is a data analysis project looking at how the 2020 pandemic and lockdown affected employment numbers for different industries in the Untied States
 
 ## Authors: Patrick Martin & Rommel Culata
 
